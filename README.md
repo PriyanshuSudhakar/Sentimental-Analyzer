@@ -98,9 +98,4 @@ Follow these steps inside the notebook:
 
 ---
 
-## 📜 License
-This project is licensed under the MIT License.
-
----
-
 
